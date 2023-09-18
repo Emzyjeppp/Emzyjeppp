@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emzyjeppp" alt="emzyjeppp" /></a> </p>
 
-- 🌱 I’m currently learning **Boostrap, Backend Developer, etc**
-
-- ⚡ Fun fact **I like some energic drink like Milo.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div> 
