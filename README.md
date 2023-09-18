@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emzyjeppp" alt="emzyjeppp" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/emji_jefry" target="blank"><img src="https://img.shields.io/twitter/follow/emji_jefry?logo=twitter&style=for-the-badge" alt="emji_jefry" /></a> </p>
-
 - 🌱 I’m currently learning **Boostrap, Backend Developer, etc**
 
 - ⚡ Fun fact **I like some energic drink like Milo.**
