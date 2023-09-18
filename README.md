@@ -14,7 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/emji_jefry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emji_jefry" height="30" width="40" /></a>
+<div> 
+  <a href="https://www.instagram.com/emzyjeppp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/muhammad-jepri-bb4183282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "jefryoconner49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/EmjixD"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitter.com/emji_jefry"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,14 +36,7 @@
 Nama Saya Muhammad Jepri, saya saat ini menempuh pendidikan di <a href="https://www.utdi.ac.id/">Universitas Teknologi Digital Indonesia</a>
 
 Sosial Media Saya :
-<div> 
-  <a href="https://www.instagram.com/emzyjeppp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/muhammad-jepri-bb4183282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "jefryoconner49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/EmjixD"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/emji_jefry"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
 
-</div>
 
 <!--
 **Emzyjeppp/Emzyjeppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
