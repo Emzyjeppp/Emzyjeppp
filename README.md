@@ -1,7 +1,7 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Jeppp</h1>
-<h3 align="center">A learner Boostrap and Backend Developer</h3>
 
+<h1 align="center">Hi 👋, I'm Jeppp</h1>
+<h3 align="center">A learner Boostrap and Backend Developer.</h3>
+<h3 align="center">Currently, I am pursuing a diploma III degree at the <a href:"https://www.utdi.ac.id/">Digital Technology University of Indonesia.</a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emzyjeppp&label=Profile%20views&color=0e75b6&style=flat" alt="emzyjeppp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emzyjeppp" alt="emzyjeppp" /></a> </p>
