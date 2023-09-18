@@ -29,12 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emzyjeppp&show_icons=true&locale=en" alt="emzyjeppp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emzyjeppp&" alt="emzyjeppp" /></p>
-
-Nama Saya Muhammad Jepri, saya saat ini menempuh pendidikan di <a href="https://www.utdi.ac.id/">Universitas Teknologi Digital Indonesia</a>
-
-Sosial Media Saya :
-
 
 <!--
 **Emzyjeppp/Emzyjeppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
