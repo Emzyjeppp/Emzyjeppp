@@ -1,5 +1,13 @@
 ### Hi there 👋
 Nama Saya Muhammad Jepri, saya saat ini menempuh pendidikan di <a href="https://www.utdi.ac.id/">Universitas Teknologi Digital Indonesia</a>
+## Statistik Bahasa Pemrograman
+
+| Bahasa Pemrograman | Persentase (%) |
+|--------------------|----------------|
+| Python             | 50             |
+| JavaScript         | 30             |
+| C++                | 20             |
+
 
 Sosial Media Saya :
 <div> 
