@@ -30,10 +30,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emzyjeppp&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=emzyjeppp&show_icons=true&locale=en" alt="emzyjeppp" />
 </p>
-
-
 
 <!--
 **Emzyjeppp/Emzyjeppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
