@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Welcome!👋</h1>
 <p align="center">
- I am a software developer who is currently learning about Bootstrap and backend development. Currently, I am pursuing an associate degree at <a href="https://www.utdi.ac.id/">Indonesia Digital Technology University.</a>
+ I am a student who is currently learning about Bootstrap and backend development. Currently, I am pursuing an associate degree at <a href="https://www.utdi.ac.id/">Indonesia Digital Technology University.</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emzyjeppp&label=Profile%20views&color=0e75b6&style=flat" alt="emzyjeppp" />
@@ -8,7 +8,19 @@
 
 <h3 align="center">Connect with me</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/380345873139367936)](https://discord.com/users/380345873139367936)
+<p align="center">
+  <strong style="font-size: 24px;">Discord</strong>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/380345873139367936">
+    <img src="https://lanyard.cnrad.dev/api/380345873139367936" alt="Discord Presence">
+  </a>
+</p>
+
+<p align="center">
+  <em>Other social media</em>
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/emzyjeppp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
