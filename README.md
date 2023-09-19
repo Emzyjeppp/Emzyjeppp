@@ -29,11 +29,6 @@
   <a href="https://www.twitter.com/emji_jefry"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emzyjeppp&show_icons=true&locale=en&layout=compact" alt="emzyjeppp" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emzyjeppp&show_icons=true&locale=en" alt="emzyjeppp" />
 </p>
