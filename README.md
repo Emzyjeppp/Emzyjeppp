@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/380345873139367936)
+[![Discord Presence](https://lanyard.cnrad.dev/api/380345873139367936)](https://discord.com/users/380345873139367936)
 
 <p align="center">
   <a href="https://www.instagram.com/emzyjeppp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
