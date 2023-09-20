@@ -9,7 +9,7 @@
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
-  <strong style="font-size: 24px;">Discord</strong>
+  <strong style="font-size: 24px;">Discord ( Click Profile Picture :point_down: )</strong>
 </p>
 
 <p align="center">
