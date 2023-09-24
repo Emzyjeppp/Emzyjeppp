@@ -31,7 +31,8 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emzyjeppp&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=emzyjeppp&show_icons=true&locale=en" alt="emzyjeppp" />
+ <img src="https://github-readme-stats.vercel.app/api?username=emzyjeppp&show_icons=true&locale=en&theme=tokyonight" alt="emzyjeppp" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emzyjeppp&theme=tokyonight"/>
 </p>
 
 <!--
