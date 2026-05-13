@@ -14,8 +14,7 @@
 
 <p align="center">
   <!-- Status Discord -->
-  <a href="https://discord.com/users/380345873139367936">
-   [![Discord Presence](https://lanyard.cnrad.dev/api/380345873139367936)](https://discord.com/users/380345873139367936)
+ [![Discord Presence](https://lanyard.cnrad.dev/api/380345873139367936)](https://discord.com/users/380345873139367936)
   </a>
   <br>
  <br>
