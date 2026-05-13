@@ -15,9 +15,10 @@
 <p align="center">
   <!-- Status Discord -->
   <a href="https://discord.com/users/380345873139367936">
-    <img src="https://lanyard.vencord.dev/api/380345873139367936?bg=21618C&borderRadius=5" alt="Discord Presence">
+   [![Discord Presence](https://lanyard.cnrad.dev/api/380345873139367936)](https://discord.com/users/380345873139367936)
   </a>
   <br>
+ <br>
   <!-- Badge Skill Tambahan -->
   <img src="https://img.shields.io/badge/Student-UTDI-blue?style=flat-square" alt="UTDI">
   <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws" alt="AWS">
