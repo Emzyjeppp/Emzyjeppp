@@ -13,9 +13,15 @@
 </p>
 
 <p align="center">
+  <!-- Status Discord -->
   <a href="https://discord.com/users/380345873139367936">
-    <img src="https://img.shields.io/badge/Discord-Jeppp-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+    <img src="https://lanyard.vencord.dev/api/380345873139367936?bg=21618C&borderRadius=5" alt="Discord Presence">
   </a>
+  <br>
+  <!-- Badge Skill Tambahan -->
+  <img src="https://img.shields.io/badge/Student-UTDI-blue?style=flat-square" alt="UTDI">
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws" alt="AWS">
+  <img src="https://img.shields.io/badge/Machine_Learning-Python-3776AB?style=flat-square&logo=python" alt="ML">
 </p>
 
 <p align="center">
