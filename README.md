@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/380345873139367936">
-    <img src="https://lanyard.vencord.dev/api/380345873139367936?bg=21618C&borderRadius=5&idleMessage=Jeppp%20Sedang%20AFK!" alt="Discord Presence">
+    <img src="https://img.shields.io/badge/Discord-Jeppp-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
   </a>
 </p>
 
