@@ -13,11 +13,10 @@
 </p>
 
 <p align="center">
-  <!-- Status Discord -->
- [![Discord Presence](https://lanyard.cnrad.dev/api/380345873139367936)](https://discord.com/users/380345873139367936)
+  <a href="https://discord.com/users/380345873139367936">
+    <img src="https://lanyard.cnrad.dev/api/380345873139367936?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px" />
   </a>
-  <br>
- <br>
+</p>
   <!-- Badge Skill Tambahan -->
   <img src="https://img.shields.io/badge/Student-UTDI-blue?style=flat-square" alt="UTDI">
   <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws" alt="AWS">
