@@ -17,11 +17,6 @@
     <img src="https://lanyard.cnrad.dev/api/380345873139367936?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px" />
   </a>
 </p>
-  <!-- Badge Skill Tambahan -->
-  <img src="https://img.shields.io/badge/Student-UTDI-blue?style=flat-square" alt="UTDI">
-  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws" alt="AWS">
-  <img src="https://img.shields.io/badge/Machine_Learning-Python-3776AB?style=flat-square&logo=python" alt="ML">
-</p>
 
 <p align="center">
   <em>Other social media</em>
