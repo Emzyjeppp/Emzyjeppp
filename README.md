@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  <a href="https://emzyjeppp.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0e75b6?style=for-the-badge&logo=globe&logoColor=white" alt="Visit My Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
