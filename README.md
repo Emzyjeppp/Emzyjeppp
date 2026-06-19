@@ -1,4 +1,8 @@
-<h1 align="center">Hi, Welcome! 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=2000&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi,+Welcome!+👋;I'm+Muhammad+Jepri;Nice+to+meet+you!+✨" alt="Hi, Welcome!" />
+  </a>
+</p>
 
 <p align="center">
   I am an Informatics student at <strong><a href="https://www.utdi.ac.id/">Indonesia Digital Technology University</a></strong>.<br>
