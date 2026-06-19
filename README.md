@@ -19,6 +19,25 @@
 
 ---
 
+### 💫 About Me
+
+I am a passionate developer and tech enthusiast currently pursuing my degree in Informatics. My focus is on building robust backend systems, automating repetitive tasks, and creating clean, responsive web applications. I love solving logic puzzles, optimizing code performance, and exploring new libraries and backend technologies.
+
+- 🎓 Informatics Student at **Universitas Teknologi Digital Indonesia (UTDI)**
+- 💻 Tech Stack interests: Python, JavaScript, SQL, and Web Frameworks
+- ⚙️ Love building automation scripts, CustomTkinter desktop tools, and modern web portfolios
+- 🔭 Always looking to learn more about backend architectures and API development
+
+---
+
+### 🚀 What I Do
+
+- **Backend & Scripting**: Writing clean, efficient Python scripts, dealing with system automation, and developing backend logic.
+- **Web Development**: Crafting responsive layouts with HTML, CSS, JavaScript, and Bootstrap.
+- **Tools & Utilities**: Creating handy desktop tools (like CustomTkinter apps) to improve daily workflow efficiency.
+
+---
+
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
