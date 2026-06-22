@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://emzyjeppp.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/emzyjeppp.github.io-0e75b6?style=for-the-badge&logo=globe&logoColor=white" alt="emzyjeppp.github.io" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0e75b6?style=for-the-badge&logo=globe&logoColor=white" alt="Visit My Portfolio" />
   </a>
 </p>
 
