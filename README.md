@@ -15,13 +15,37 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,bootstrap,html,css,php,mysql,git" alt="My Skills" />
+</div>
+
+### 📬 Connect with me
+
+<div align="center">
+  <a href="https://github.com/Emzyjeppp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
+  </a>
+  <a href="mailto:jefryoconner49@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/380345873139367936" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/emzyjeppp/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
+</div>
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Emzyjeppp&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8" height="150" alt="streak graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emzyjeppp&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=a1a1aa" height="150" alt="top languages" />
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emzyjeppp&label=Profile%20views&color=0e75b6&style=flat-square" alt="emzyjeppp" />
