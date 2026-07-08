@@ -41,15 +41,13 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Emzyjeppp&theme=dracula&no-bg=true&no-frame=true&column=-1&row=1" alt="github profile trophy" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/trophy.svg" alt="github profile trophy" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Emzyjeppp&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8" height="150" alt="streak graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Emzyjeppp&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=a1a1aa" height="150" alt="github stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emzyjeppp&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=a1a1aa" height="150" alt="top languages" />
 </div>
 
@@ -57,9 +55,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/github-contribution-grid-snake-pacman.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/github-contribution-grid-snake.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/github-contribution-grid-snake-pacman.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
