@@ -28,14 +28,6 @@ jobs:
           npx pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --game pacman --gameTheme github --output dist/pacman-contribution-graph.svg
           npx pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --game pacman --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
 
-      # Generate trophy card in dist/
-      - name: Generate Trophy Card
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: "username=${{ github.repository_owner }}&theme=dracula&no-bg=true&no-frame=true&column=-1&row=1"
-          path: dist/trophy.svg
-          token: ${{ secrets.PACMAN_TOKEN || secrets.GITHUB_TOKEN }}
-
       # Push the content of dist/ to target_branch output
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
