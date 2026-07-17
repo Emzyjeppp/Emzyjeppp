@@ -21,15 +21,12 @@ jobs:
       # Checkout the repository
       - uses: actions/checkout@v4
 
-      # Generates a pacman game SVG in dist/
+      # Generates a pacman game SVG in dist/ using CLI (robust, no token required!)
       - name: Generate Pacman Contribution Graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.PACMAN_TOKEN || secrets.GITHUB_TOKEN }}
-          games: 'pacman'
-        env:
-          GITHUB_TOKEN: ${{ secrets.PACMAN_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          npx pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --game pacman --gameTheme github --output dist/pacman-contribution-graph.svg
+          npx pacman-contribution-graph --platform github --username ${{ github.repository_owner }} --game pacman --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
 
       # Generate trophy card in dist/
       - name: Generate Trophy Card
