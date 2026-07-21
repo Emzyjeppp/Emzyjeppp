@@ -46,8 +46,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/profile-summary-card-output/github_dark/stats.svg" height="150" alt="github stats" />
-  <img src="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/profile-summary-card-output/github_dark/repos-per-language.svg" height="150" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emzyjeppp&theme=github_dark" height="190" alt="top languages" />
 </div>
 
 <br>
