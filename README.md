@@ -39,7 +39,8 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emzyjeppp&theme=github_dark" height="190" alt="top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Emzyjeppp&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=a1a1aa" height="150" alt="github stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emzyjeppp&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=a1a1aa" height="150" alt="top languages" />
 </div>
 
 <br>
