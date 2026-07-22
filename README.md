@@ -5,14 +5,7 @@
 </p>
 
 <p align="center">
-  I am an Informatics student at <strong><a href="https://www.utdi.ac.id/">Indonesia Digital Technology University</a></strong>.<br>
   Focusing on backend systems (Python), automation scripts, and web technologies.
-</p>
-
-<p align="center">
-  <a href="https://emzyjeppp.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0e75b6?style=for-the-badge&logo=globe&logoColor=white" alt="Visit My Portfolio" />
-  </a>
 </p>
 
 ### 🛠️ Tech Stack & Skills
