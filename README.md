@@ -43,17 +43,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emzyjeppp&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=a1a1aa" height="150" alt="top languages" />
 </div>
 
-<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emzyjeppp&label=Profile%20views&color=0e75b6&style=flat-square" alt="emzyjeppp" />
