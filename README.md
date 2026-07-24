@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emzyjeppp&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
 - 🐍 Focusing on **backend systems (Python)**, automation scripts & web technologies
 - 🔧 Working with **JavaScript, PHP, MySQL** and a bit of frontend
 
