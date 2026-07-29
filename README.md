@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/FPZmRqeat40AAAAd/gen12-jkt48-aurhel-alana.gif" width="250" alt="Gen12 JKT48 Lana" style="border-radius: 10px;" />
+  <img src="https://media1.tenor.com/m/oZqeCmocBdUAAAAd/lanajkt48-aurhel.gif" width="250" alt="Gen12 JKT48 Lana" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
