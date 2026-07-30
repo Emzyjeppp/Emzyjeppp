@@ -22,5 +22,5 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/github-metrics.svg?v=2" alt="GitHub Metrics" />
 </div>
