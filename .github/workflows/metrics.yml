@@ -28,8 +28,6 @@ jobs:
           plugin_achievements_display: compact
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://emzyjeppp.github.io/
         env:
           WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
 
@@ -46,8 +44,6 @@ jobs:
           plugin_achievements_display: compact
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://emzyjeppp.github.io/
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs
