@@ -1,0 +1,56 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    # Run automatically every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # Generate metrics without WakaTime if WAKATIME_TOKEN is not configured
+      - name: Generate Metrics (Without WakaTime)
+        if: "${{ env.WAKATIME_TOKEN == '' }}"
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.PACMAN_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_branch: output
+          base: header, activity, community, repositories, metadata
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://emzyjeppp.github.io/
+        env:
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
+
+      # Generate metrics with WakaTime if WAKATIME_TOKEN is configured
+      - name: Generate Metrics (With WakaTime)
+        if: "${{ env.WAKATIME_TOKEN != '' }}"
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.PACMAN_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_branch: output
+          base: header, activity, community, repositories, metadata
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://emzyjeppp.github.io/
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs
+          plugin_wakatime_days: 7
+        env:
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}

@@ -16,3 +16,11 @@
     <img src="https://lanyard.cnrad.dev/api/380345873139367936?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px" alt="Discord Status" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Emzyjeppp/Emzyjeppp/output/github-metrics.svg" alt="GitHub Metrics" />
+</div>
